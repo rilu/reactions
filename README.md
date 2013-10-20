@@ -1,6 +1,8 @@
 reactions
 =========
-Devopsreactions on Nancy and reveal.js using scriptcs.
+Scriptcs script that downloads all posts from DevOps Reactions (http://devopsreactions.tumblr.com),
+puts the posts in a nice reveal.js (http://lab.hakim.se/reveal-js) presentation and finally self hosts it with Nancy (http://nancyfx.org).
+
 
 Howto
 -----
