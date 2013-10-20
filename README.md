@@ -6,11 +6,11 @@ install Chocolatey from  ```http://chocolatey.org/``` if you don't have it alrea
 
 run ```cinst git``` if you don't have git
 
-run ```git clone git@github.com:rilu/reactions.git``` to some nice place on your harddrive
+run ```cinst scriptcs``` if you don't have scriptcs
 
-run ```cinst scriptcs```
+run ```git clone https://github.com/rilu/reactions.git``` to some nice place on your harddrive
 
-run ```cd [the place on your hardrive where the repository you just cloned resides```
+run ```cd [the place on your hardrive where the repository you just cloned resides]```
 
 run ```scriptcs -install```
 
