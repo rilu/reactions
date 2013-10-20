@@ -1,6 +1,10 @@
+reactions
+=========
 Devopsreactions on Nancy and reveal.js using scriptcs.
 
-Howto on a windows machine (until monosupport comes along for scriptcs):
+Howto
+-----
+Needs a windows box (until monosupport comes along for scriptcs):
 
 install Chocolatey from  ```http://chocolatey.org/``` if you don't have it already.
 
@@ -12,9 +16,9 @@ run ```git clone https://github.com/rilu/reactions.git``` to some nice place on 
 
 run ```cd [the place on your hardrive where the repository you just cloned resides]```
 
-run ```scriptcs -install```
+run ```scriptcs -install``` downloads the nuget packages
 
-run ```scriptcs download.csx``` to download all posts from devopsreacations
+run ```scriptcs download.csx``` to download/update all posts from devopsreacations
 
 run ```scriptcs start.csx``` as administrator
 
