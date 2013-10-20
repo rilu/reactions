@@ -1,12 +1,11 @@
 reactions
 =========
-Scriptcs script that downloads all posts from DevOps Reactions (http://devopsreactions.tumblr.com),
-puts the posts in a nice reveal.js (http://lab.hakim.se/reveal-js) presentation and finally self hosts it with Nancy (http://nancyfx.org).
+Scriptcs script that downloads all posts from DevOps Reactions (http://devopsreactions.tumblr.com), puts the posts in a nice reveal.js (http://lab.hakim.se/reveal-js) presentation and finally self hosts it with Nancy (http://nancyfx.org).
 
 
 Howto
 -----
-Needs a windows box (until monosupport comes along for scriptcs):
+Needs a windows box (until mono support comes along for scriptcs):
 
 install Chocolatey from  ```http://chocolatey.org/``` if you don't have it already.
 
